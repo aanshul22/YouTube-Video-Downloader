@@ -17,6 +17,6 @@ pip3 install pytube
 4. Select the Location where you want to store the video.
 5. Click Download and the video will get downloaded.
 
-![Example 1](Example 1.png)
+![Example 1]("Example 1.png")
 
 ![Example 2](Example 2.png)
