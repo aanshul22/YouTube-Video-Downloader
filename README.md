@@ -5,7 +5,7 @@ A simple application to download YouTube videos using Python. Tkinter API is use
 
 1. This application uses the **pytube3** API.
 ```
-pip install pytube
+pip install pytube3
 ```
 2. The Documentation for this API check [here](https://python-pytube.readthedocs.io/en/latest/)
 
