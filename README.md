@@ -17,8 +17,8 @@ pip install pytube
 4. Select the Location where you want to store the video.
 5. Click Download and the video will get downloaded.
 
-![Example1](Example1.png)
+![Example 1](Example1.png)
 
-![Example2](Example2.png)
+![Example 2](Example2.png)
 
 > There maybe instances that the Titlebar of the application window will display **Not Responding** but it is fine just wait for sometime and the application will be good to go.
